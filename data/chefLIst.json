@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "experience": 40,
+    "total_recipes": 10,
+    "name": "Anthony Bourdain",
+    "birthday": " June 25, 1956",
+    "birthPlace": "New York, United States",
+    "img": "https://www.thefamouspeople.com/profiles/images/anthony-bourdain-8.jpg",
+    "about": "Known to most Americans as the author of the bestseller, Kitchen Confidential: Adventures in the Culinary Underbelly, Anthony Bourdain was more than a famous chef-cum-author. He became a household name with the success of the book which led to offers to host television programs. In the travel and food show A Cooks Tour, aired on Food Network, he traveled to several exotic locations all over the world in search of the perfect meal. The popularity of this show, in turn, resulted in the Anthony Bourdain: No Reservations show on the Discovery Traveling and Living Channel"
+  },
+  {
+    "id": 2,
+    "experience": 30,
+    "total_recipes": 4,
+    "name": "Bobby Flay",
+    "birthday": "December 10, 1964",
+    "birthPlace": "New York, United States",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/bobby-flay-2.jpg",
+    "about": "Robert William “Bobby” Flay is a celebrity chef who has hosted several popular cookery shows on the television channel, Food Network. He is most famous for his innovative style of cooking and for his love for traditional Southwestern and Mediterranean cuisines. The owner of a chain of successful restaurants, Flay is someone who not only converted a childhood passion into a fulltime profession, but also proved to the world that it is very much possible to reach the pinnacles of success doing what you love to do the most. "
+  },
+  {
+    "id": 3,
+    "experience": 45,
+    "total_recipes": 7,
+    "name": "Rachael Ray",
+    "birthday": "August 25, 1968 ",
+    "birthPlace": "Warrensburg, New York, United States",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/rachael-ray-4.jpg",
+    "about": "Rachael Domenica Ray is an American celebrity cook, best selling cookbook author, a business women and a TV personality. She has worked in almost every profile related to food industry throughout her career. Out of her passion for food, she has built an entire food empire. Cooking is the way of life she is simply born into. Her cooking style is quick & easy. Her philosophy in life is finding simple solutions to everyday problems. She favors approximations instead of exact measurements while cooking. She has created thousands of new recipes & continues to come up with new ones every day.  "
+  },
+  {
+    "id": 4,
+    "experience": 50,
+    "total_recipes": 5,
+    "name": "David Chang",
+    "birthday": " August 5, 1977 ",
+    "birthPlace": "Arlington County, Virginia, United States",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/david-chang-1.jpg",
+    "about": "David Chang is an American restaurateur, author, and TV personality, best known as the founder of the Momofuku restaurant group. The group includes several bars including the Momofuku Ssam Bar and Ma Peche Milk Bar. Chang has a culinary degree from the French Culinary Institute. He worked at Mercer Kitchen and various other restaurants before finally opening his first restaurant Momofuku Noodle Bar. It was named after Momofuku Ando, the inventor of instant noodles. He is widely known for popularizing the modern Asian cuisine and has won the James Beard Award seven times."
+  },
+  {
+    "id": 5,
+    "experience": 60,
+    "total_recipes": 4,
+    "name": "Mario Batali",
+    "birthday": " September 19, 1960",
+    "birthPlace": "Seattle, Washington, United States",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/mario-batali-3.jpg",
+    "about": "Mario Batali is an American chef, author, restaurateur and television personality who became a household name with his Food Network shows, Molto Mario and Iron Chef America. Later, he appeared in PBS Networks Spain... on the road Again and ABC Networks The Chew. He was also the co-owner of numerous restaurants in cities like New York, Los Angeles and Las Vegas. Apart from this, he wrote numerous cookbooks including The Babbo Cookbook and Big American Cookbook: 250 Favorite Recipes from Across the USA."
+  },
+  {
+    "id": 6,
+    "experience": 60,
+    "total_recipes": 4,
+    "name": "Jamie Lee Curtis",
+    "birthday": "November 22, 1958",
+    "birthPlace": "Santa Monica, California, United States",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/jamie-lee-curtis-7.jpg",
+    "about": "Jamie Lee Curtis is an American chef, author, restaurateur and television personality who became a household name with his Food Network shows, Molto Mario and Iron Chef America. Later, he appeared in PBS Networks Spain... on the road Again and ABC Networks The Chew. He was also the co-owner of numerous restaurants in cities like New York, Los Angeles and Las Vegas. Apart from this, he wrote numerous cookbooks including The Babbo Cookbook and Big American Cookbook: 250 Favorite Recipes from Across the USA."
+  }
+]
