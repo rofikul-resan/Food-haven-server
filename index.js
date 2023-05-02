@@ -21,6 +21,12 @@ app.get("/chef/:id", (req, res) => {
   res.send({ chefRecipes, selectedChef });
 });
 
+app.get("/food/:id", (req, res) => {
+  const id = req.params.id;
+  const findFood = recipes.find((food) => +food.idMeal === +id);
+  res.send(findFood);
+});
+
 app.get("/foods", (req, res) => {
   res.send(recipes);
 });
