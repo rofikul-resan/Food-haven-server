@@ -2,6 +2,12 @@
 
 **Food Haven** is a react web application.
 
+# features
+
+- An active navbar
+- Chef from America
+- Every chef have quinic recipe
+
 # _API link_
 
 [https://food-heven-server.vercel.app](https://food-heven-server.vercel.app)
